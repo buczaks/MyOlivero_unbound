@@ -14,14 +14,11 @@
   core/olivero theme so you can rip, shred, redesign, remove or add to it any way you desire.
 - Place this theme package in /themes/custom and install as usual from
   the admin/appearance page. MyOlivero is not a subtheme and does not require a base theme.
-- Font preload was unnecessary and has been removed eliminating a load error.
-- navigation.js was erring when display size changed. This error has been eliminated.
 
 ## REQUIREMENTS
 
 - Drupal 10
 - This theme requires no modules or themes outside of Drupal 10 core.
-
 
 ## INSTALLATION
 
